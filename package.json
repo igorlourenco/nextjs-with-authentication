@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-chakra-typescript",
+  "name": "with-authentication",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
@@ -11,11 +11,15 @@
     "@emotion/react": "^11.1.4",
     "@emotion/styled": "^11.0.0",
     "framer-motion": "^3.2.1",
+    "mongodb": "^3.6.4",
     "next": "^10.0.5",
+    "next-auth": "^3.11.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
   "devDependencies": {
+    "@types/mongodb": "^3.6.9",
+    "@types/next-auth": "^3.7.1",
     "@types/node": "^14.14.20",
     "@types/react": "^17.0.0",
     "@typescript-eslint/eslint-plugin": "^4.12.0",
